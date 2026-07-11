@@ -1,3 +1,3 @@
 # Notebooks
-
-   Place your Jupyter notebooks (.ipynb), R Markdown files (.Rmd), or Google Colab notebooks here.
+No notebooks were used for this project.
+SQL and PowerBI were used throughout.
