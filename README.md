@@ -227,7 +227,7 @@ Inisght 7: Despite data limitations, consistent operational patterns were identi
 **Blessing Chiamaka Ogomegbulam**
 Junior Data Analyst
 - 🔗 www.linkedin.com/in/blessingogomegbulam
-- 💼 https://github.com/Mandyamaka
+- 💼 https://github.com/Mandyamaka/BlueLine-Logistics-Operations-Analysis
 - 📧 mandyamaka2@gmail.com
 
 ---
